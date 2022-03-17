@@ -37,8 +37,6 @@
       alt="nodejs" width="40" height="40" /> </a> 
       <a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="40"
       height="40" alt="GitHub"/></a>
-      <a href="https://hibernate.org"><img src="" width="40"
-      height="40" alt="GitHub"/></a>
          
 <br>
 
