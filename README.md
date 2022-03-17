@@ -6,11 +6,10 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development and other programming languages ⚡
 
 - 📫 How to reach me **carvajalkendri@gmail.com**
 
-- ⚡ Fun fact :- Football and Music🎵 are the reasons to live.
 
 <br>
 
@@ -45,8 +44,7 @@
       height="40" /> </a> 
       <a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="40"
       height="40" alt="GitHub"/></a>
-      
-   
+         
 
 <br>
 
