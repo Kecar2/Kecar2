@@ -46,7 +46,7 @@
       <a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="40"
       height="40" alt="GitHub"/></a>
       
-      </p>
+   
 
 <br>
 
