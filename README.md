@@ -40,6 +40,8 @@
          
 <br>
 
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kecar2&theme=algolia" alt="Kecar2" /></p>
 
 
 <br>
