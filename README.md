@@ -10,7 +10,7 @@
 
 <br>
 
-## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## Connect with me 
 <p align="left">
   <a href="https://www.linkedin.com/in/kendry-c-501639206/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -20,7 +20,7 @@
 
 <br>
 
-## Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+## Languages and Tools
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Vue](https://img.icons8.com/color/30/000000/vue-js.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Console](https://img.icons8.com/color/30/console.png)![Java](https://img.icons8.com/color/30/000000/java-coffee-cup-logo--v1.png)![Bootstrap](https://img.icons8.com/color/30/000000/bootstrap.png)![Scrum Agile](https://img.icons8.com/external-flaticons-flat-flat-icons/30/000000/external-scrum-agile-flaticons-flat-flat-icons-6.png)![Spring Framework](https://img.icons8.com/color/30/000000/spring-logo.png)
          
 <br>
