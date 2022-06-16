@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages ⚡
 
-- 📫 How to reach me **carvajalkendri@gmail.com**
+- 📫 How to reach me [Gmail](carvajalkendri@gmail.com)
 
--  Portfolio **https://kendry-portfolio.netlify.app/**
+-  [Portfolio](https://kendry-portfolio.netlify.app/)
 
 <br>
 
