@@ -6,7 +6,7 @@
 
 - 📫 How to reach me [Gmail](carvajalkendri@gmail.com)
 
--  [Portfolio](https://kendry-portfolio.netlify.app/)
+-  https://portfolio-personal-complete-ken.vercel.app/
 
 <br>
 
