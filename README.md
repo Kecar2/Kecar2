@@ -26,11 +26,8 @@
 <br>
 
 ## Statistical Data 
+![](https://raw.githubusercontent.com/Kecar2/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Kecar2&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Kecar2" 
-    bg_color=#808080/></p>
 
 
 
