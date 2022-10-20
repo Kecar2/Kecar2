@@ -26,13 +26,10 @@
 <br>
 
 ## Statistical Data 
-![](https://raw.githubusercontent.com/Kecar2/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-
-
+![](https://github.com/Kecar2/GitHubStats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Kecar2/GitHubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 <br>
 
-## 🔥 Streak Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kecar2&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Kecar2" /></p>
+
