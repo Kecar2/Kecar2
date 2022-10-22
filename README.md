@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kendry <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/></h1>
+<h1 align="center">Hi 👋, I'm Kendry</h1>
 
 <div size='20px'>Thank You for taking the time to view my GitHub Profile :smile: </div>
 
