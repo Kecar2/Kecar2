@@ -26,10 +26,15 @@
 <br>
 
 ### Badges
-[Applied Data Science with Python - Level 2](https://www.credly.com/badges/fc29f859-30c2-4322-94b7-ff9487d3e9bb/public_url)
-[Python for Data Science](https://www.credly.com/badges/56488ebd-5e10-4b6e-a91b-ae3b8d634c91/public_url)
-[Data Analysis Using Python](https://www.credly.com/badges/35babddb-e94a-4b6f-9947-49d26f4a98f7/public_url)
-[Data Visualization Using Python](https://www.credly.com/badges/e03c577b-250b-4890-bc34-68b96be23fef/public_url)
+
+<p align="left">
+  <a href="https://www.credly.com/badges/fc29f859-30c2-4322-94b7-ff9487d3e9bb/public_url" target="blank"><img
+      src="https://images.credly.com/size/680x680/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png"
+      width="30"/></a>
+  <a href='https://www.credly.com/badges/e03c577b-250b-4890-bc34-68b96be23fef/public_url' target="blank"> <img width='30px'             src="https://images.credly.com/size/680x680/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png"/></a>
+   <a href='https://www.credly.com/badges/56488ebd-5e10-4b6e-a91b-ae3b8d634c91/public_url' target="blank"> <img width='30px' src="https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png"/></a>
+ <a href='https://www.credly.com/badges/35babddb-e94a-4b6f-9947-49d26f4a98f7/public_url' target="blank"> <img width='30px' src="https://images.credly.com/size/680x680/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png"/></a>
+</p>
          
 <br>
 
