@@ -40,7 +40,10 @@
 
 ## Statistical Data 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kecar2&layout=compact)](https://github.com/Kecar2/github-readme-stats)
-![Kendry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kecar2&show_icons=true&theme=radical)
+
+<br>
+
+![Kendry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kecar2&show_icons=true&theme=dark)
 
 <br>
 
