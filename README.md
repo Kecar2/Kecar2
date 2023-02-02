@@ -39,8 +39,8 @@
 <br>
 
 ## Statistical Data 
-![](https://github.com/Kecar2/GitHubStats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Kecar2/GitHubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kecar2&layout=compact)](https://github.com/Kecar2/github-readme-stats)
+![Kendry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kecar2&show_icons=true&theme=radical)
 
 <br>
 
