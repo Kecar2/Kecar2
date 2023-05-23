@@ -2,7 +2,7 @@
 
 <div size='20px'>Thank You for taking the time to view my GitHub Profile :smile: </div>
 
-- 🌱 I’m currently learning Web Development and other programming languages ⚡
+- 🌱 I’m currently learning programming languages ⚡
 
 - 📫 How to reach me [Gmail](carvajalkendri@gmail.com)
 
